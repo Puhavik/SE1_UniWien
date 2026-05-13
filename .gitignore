@@ -1,1 +1,53 @@
-/.DS_Store
+# ========================
+# macOS
+# ========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# ========================
+# Java / Gradle
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Gradle build output
+build/
+.gradle/
+out/
+
+# Gradle wrapper (keep gradlew scripts, ignore cache)
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# ========================
+# Eclipse
+# ========================
+.classpath
+.project
+.settings/
+bin/
+
+# ========================
+# IntelliJ IDEA
+# ========================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# Logs & temp files
+# ========================
+*.tmp
+*.swp
+*~
