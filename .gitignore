@@ -51,3 +51,4 @@ bin/
 *.tmp
 *.swp
 *~
+node_modules/
