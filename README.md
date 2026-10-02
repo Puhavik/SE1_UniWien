@@ -9,8 +9,6 @@
 | Feld | Wert |
 |------|------|
 | Name | Pukhaev, Vikentiy |
-| Matrikelnummer | xxxxxxxx |
-| E-Mail | axxxxxxxx@unet.univie.ac.at |
 | Branch | `master` |
 
 ---
@@ -50,7 +48,7 @@ Zwei KI-Clients treten gegeneinander an: Jede KI navigiert ihre Spielfigur auf e
 ## Repository-Struktur
 
 ```
-SE1_xxxxxxxx/
+SE1_<matrikelnummer>/
 ├── Dokumentation/
 │   ├── Teilaufgabe 1/      # Anforderungsanalyse, UML-Diagramme
 │   ├── Teilaufgabe 2/      # Quelldokumentation TA2

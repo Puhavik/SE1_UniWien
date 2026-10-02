@@ -5,8 +5,6 @@
 ### Persönliche Daten, bitte vollständig ausfüllen:
 
 - Nachname, Vorname: Pukhaev, Vikentiy
-- Matrikelnummer: xxxxxxxx
-- E-Mail-Adresse: axxxxxxxx@unet.univie.ac.at
 - Datum: 03.04.2025
 
 ## Aufgabe 1: Anforderungsanalyse
